@@ -11,6 +11,8 @@ book:
     - summary.qmd
     - references.qmd
 
+lang: fr-FR
+
 bibliography: references.bib
 
 format:
