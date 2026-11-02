@@ -2,8 +2,27 @@
 
 This is a Quarto book.
 
-To learn more about Quarto books visit <https://quarto.org/docs/books>.
+----------------------------------------------------------
 
-```{r}
-1 + 1
-```
+Notes :
+
+Enjeux
+
+A l'heure où j'écris ... la question n'est plus de savoir si on est enthousiaste ou réfractaire à l'IA mais plutôt de déterminer quand et comment ces nouveaux outils apportent une plus value à l'entreprise (au sens où c'est elle qui finance les coûts).
+
+\[intro\] Dans mon expérience, j'ai vu des approches ou des technologies prometteuses ne pas convertir les espérences en réalité (80% des projets IT... trouver une source) et la fulgurance avec laquelle l'IA débarque dans tous les secteurs d'activités laisse craindre que ce risque est très élevé.
+
+Contexte & objectfs
+
+context des exploration : OC, dev package, vidéos, voix-off
+
+Ce guide n'a pas vocation à être une étude exhaustive mais bien un retour d'expérience, lequel s'enrichira au gré des nouvelles expériences. Il contient donc un biais naturel issu de mes besoins & cas d'usage (+OC). En particulier, un grand nombre de cas d'usages sont directement liés au développement d'un package, ce qui correspond à la priorité du moment plus qu'à une volonté d'axer mes explorations des outils IA dans ce sens. L'avantage est que, ayant développer chaque ligne de ce package, définit les spécifications, arbitré le choix technique, rédigé la doc ainsi que tous les éléments de communication (poste, etc...), je connais le sujet dans ces moindres détails ce qui autorise un point de vue très critique vis à vis de la solidité des réponses.
+
+Structure du guide
+
+Par expérience / domaine\
+Chaque fois, contexte d'utilisation (use case), méthodologie et retour d'expérience.
+
+Apport des étudiants.
+
+Voir pour citations.
